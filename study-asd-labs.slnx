@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/1 семестр/">
+    <Project Path="sem1/lab1-files/sem1-lab1-files.vcxproj" Id="1dbcf9b5-f98b-4acb-9ed2-19201f6cbc6f" />
+    <Project Path="sem1/lab2-vectors/sem1-lab2-vectors.vcxproj" Id="d234784e-665e-4071-986f-d931f13cf999" />
+    <Project Path="sem1/lab3-date/sem1-lab3-date.vcxproj" Id="4f5708b1-536c-4c3e-a312-c67e8eb335c0" />
+    <Project Path="sem1/lab4-intvector/sem1-lab4-intvector.vcxproj" Id="3b45aad6-1b10-4d20-9183-adf218610e90" />
+    <Project Path="sem1/lab5-complex/sem1-lab5-complex.vcxproj" Id="e81f0080-970b-4eb0-841d-5c38e8d7ce4d" />
+  </Folder>
+  <Project Path="study-asd-labs.vcxproj" Id="a443d83a-5762-4d66-b694-26b122a18a57" />
+</Solution>

@@ -1,0 +1,107 @@
+# =========================
+# Visual Studio / MSVC
+# =========================
+# Visual Studio temporary files, caches, and working directories
+.vs/
+.cache/
+TestResults/
+[Bb]uild/
+[Oo]ut/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build outputs and intermediate directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Solution cache files
+*.opendb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.db
+slnx.sqlite
+
+# Compiler & Linker outputs
+*.obj
+*.obj.enc
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dylib
+*.exe
+*.dll
+*.manifest
+*.res
+*.rc.res
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Build logs & tracking
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# =========================
+# Code Editors & IDEs
+# =========================
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (CLion, Rider)
+.idea/
+cmake-build-*/
+CMakeUserPresets.json
+
+# =========================
+# Operating System Files
+# =========================
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
