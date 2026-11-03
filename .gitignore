@@ -72,6 +72,10 @@ slnx.sqlite
 *.lastbuildstate
 *.recipe
 
+# Runtime lab outputs
+*.bin
+result.txt
+
 # =========================
 # Code Editors & IDEs
 # =========================
